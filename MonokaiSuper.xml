@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
  Copyright (C) 2009 tm2gtksw2(Alexandre da Silva)
-
  This file was generated from a textmate theme named Monokai
  with tm2gtksw2 tool. (Alexandre da Silva)
  Modified by Andrey Serebryakov, 2011
-
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
  License as published by the Free Software Foundation; either
  version 2 of the License, or (at your option) any later version.
-
  This library is distributed in the hope that it will be useful,
  but WITHOUT ANY WARRANTY; without even the implied warranty of
  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
  Library General Public License for more details.
-
  You should have received a copy of the GNU Library General Public
  License along with this library; if not, write to the
  Free Software Foundation, Inc., 59 Temple Place - Suite 330,
@@ -82,7 +78,7 @@
   <style name="ruby:symbol" foreground="#ae81ff"/>
   <style name="rubyonrails:attribute-definition" foreground="#f92672"/>
   <style name="rubyonrails:block-parameter" foreground="#fd971f" italic="true"/>
-  <style name="rubyonrails:class-inherit" foreground="#a6e22e" underline="true" italic="true"/>
+  <style name="rubyonrails:class-inherit" foreground="#a6e22e" underline="true" italic="true"/> 
   <style name="rubyonrails:class-name" foreground="#66d9ef" italic="true"/>
   <style name="rubyonrails:complex-interpolation" foreground="#ae81ff"/>
   <style name="rubyonrails:global-variable" foreground="#a6e22e"/>
@@ -93,20 +89,36 @@
   <style name="rubyonrails:simple-interpolation" foreground="#ae81ff"/>
   <style name="rubyonrails:special-variable" foreground="#f92672"/>
   <style name="rubyonrails:symbol" foreground="#ae81ff"/>
-  <style name="search-match"  background="#E8DA50" foreground="#999674"/>
-  <style name="selection" foreground="#f8f8f2" background="#739927"/>
+  <style name="search-match"  foreground="#999674" background="#E8DA50"/>
+  <style name="selection" foreground="#f8f8f2" background="#575a5a"/>
   <style name="text" foreground="#f8f8f2" background="#272822"/>
   <style name="xml:attribute-name" foreground="#a6e22e"/>
   <style name="xml:element-name" foreground="#f92672"/>
   <style name="xml:namespace" foreground="#f92672"/>
   <style name="xml:tag" foreground="#f92672"/>
   
+  <style name="markdown:attribute-value" foreground="#66d9ef"/>
+  <style name="markdown:backslash-escape" foreground="#ae81ff"/>
+  <style name="markdown:blockquote" foreground="#f92672" italic="true"/>
+  <style name="markdown:blockquote-marker" foreground="#f92672" italic="true"/>
+  <style name="markdown:code" foreground="#fd971f"/>
+  <style name="markdown:code-block" foreground="#fd971f"/>
+  <style name="markdown:code-span" foreground="#fd971f"/>
+  <style name="markdown:emphasis" foreground="#66d9ef" italic="true" bold="true"/>
+  <style name="markdown:header" foreground="#a6e22e" bold="true"/>
+  <style name="markdown:horizontal-rule" foreground="#a6e22e"/>
+  <style name="markdown:image-marker" foreground="#ae81ff"/>
+  <style name="markdown:label" foreground="#66d9ef"/>
+  <style name="markdown:line-break" foreground="#a6e22e"/>
+  <style name="markdown:list-marker" foreground="#a6e22e"/> 
+  <style name="markdown:link-text" foreground="#ae81ff"/>
+  <style name="markdown:strong-emphasis" foreground="#fd971f" bold="true"/> 
+  <style name="markdown:url" foreground="#e6db74"/>
+ 
   <style name="diff:added-line" background="lime"/>
   <style name="diff:removed-line" background="magenta"/>
   <style name="diff:changed-line" background="ambra"/>
   <style name="diff:special-case" use-style="def:string"/>
   <style name="diff:location" use-style="def:keyword"/>
-  
 
 </style-scheme>
-
